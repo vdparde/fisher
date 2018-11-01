@@ -8,7 +8,7 @@ def project_name = "LLL_Base"
 def project_env = "DEV"
 def xunit_tags = "XUNITDEMO"
 def docker_file_directory = '/home/oracle/lll'
-def docker_machine_ip="192.168.2.112"
+def docker_machine_ip="192.168.173.1"
 
 pipeline {
 
