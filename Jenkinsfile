@@ -7,7 +7,7 @@ def db_container_name = "lll-node-db-1"
 def project_name = "LLL_Base"
 def project_env = "DEV"
 def xunit_tags = "XUNITDEMO"
-def docker_file_directory = '/home/oracle/lll'
+def docker_file_directory = '/home/oracle/docker'
 def docker_machine_ip="192.168.2.112"
 
 pipeline {
