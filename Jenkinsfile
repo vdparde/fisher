@@ -13,7 +13,7 @@ def docker_machine_ip="192.168.2.112"
 pipeline {
 
     agent {
-        label 'kubehost'
+        label 'master'
     }
 
 
